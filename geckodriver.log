@@ -1,0 +1,215 @@
+1603628861128	geckodriver	INFO	Listening on 127.0.0.1:56144
+1603628864205	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Personal\\AppData\\Local\\Temp\\rust_mozprofile0fNDej"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603628869107	Marionette	INFO	Listening on port 56155
+1603628869569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603628882521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629843993	Marionette	INFO	Stopped listening on port 56155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileok7784"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629002344	Marionette	INFO	Listening on port 56462
+1603629002761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629011357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://hm.inq.com/tagserver/js/ads-blocking-detector.js, line 34: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603629236042	Marionette	INFO	Stopped listening on port 56462
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629103088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629235612	Marionette	INFO	Stopped listening on port 56733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileyjj4XZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629195734	Marionette	INFO	Listening on port 57014
+1603629196181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629205435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://hm.inq.com/tagserver/js/ads-blocking-detector.js, line 149: TypeError: window.document.body is null
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603629235074	Marionette	INFO	Stopped listening on port 57014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603629236923	geckodriver	INFO	Listening on 127.0.0.1:57276
+1603629239939	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Personal\\AppData\\Local\\Temp\\rust_mozprofile40KyKP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629244824	Marionette	INFO	Listening on port 57285
+1603629244892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629256718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://hm.inq.com/tagserver/js/ads-blocking-detector.js, line 149: TypeError: window.document.body is null
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14636, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 14636, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12528, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603629365042	Marionette	INFO	Stopped listening on port 57285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+13791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603629364786	Marionette	INFO	Stopped listening on port 57521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603629365513	geckodriver	INFO	Listening on 127.0.0.1:57775
+1603629368544	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Personal\\AppData\\Local\\Temp\\rust_mozprofilelSASj9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629372073	Marionette	INFO	Listening on port 57783
+1603629372412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629385737	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://hm.inq.com/tagserver/cbc-min.js, line 1345: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://hm.inq.com/tagserver/cbc-min.js, line 1347: TypeError: top is null
+1603629846260	Marionette	INFO	Stopped listening on port 57783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileViKPz3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629652075	Marionette	INFO	Listening on port 58088
+1603629652291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1603629707955	Marionette	INFO	Stopped listening on port 58088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603629709667	geckodriver	INFO	Listening on 127.0.0.1:58283
+1603629712713	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Personal\\AppData\\Local\\Temp\\rust_mozprofile7W70rh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603629717306	Marionette	INFO	Listening on port 58291
+1603629717688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www2.hm.com/etc.clientlibs/settings/wcm/designs/hm/clientlibs/shared/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1603629766001	Marionette	INFO	Stopped listening on port 58291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
